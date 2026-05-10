@@ -51,8 +51,8 @@ sudo apt-get install -y nodejs
 
 ```bash
 # 1. Baixar o projeto
-git clone <url-do-repositorio>
-cd ufo_pipeline
+git clone https://github.com/BryanLinocnl/uap-files
+cd uap-files
 
 # 2. Instalar tudo
 npm run setup
