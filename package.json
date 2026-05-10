@@ -1,0 +1,12 @@
+{
+  "name": "uap-files",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "python3 uap_files.py"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.43.0"
+  }
+}

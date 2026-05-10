@@ -1,0 +1,8 @@
+node_modules/
+ACERVO/
+translated/
+catalog.csv
+pipeline.log
+*.pyc
+__pycache__/
+.DS_Store
